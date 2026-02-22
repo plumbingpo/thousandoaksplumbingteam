@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thousandoaksplumbingteam.com/sitemap.xml
